@@ -1,0 +1,2 @@
+File::Logger: This is a debug information.
+File::Logger: This is an error information.
