@@ -1,0 +1,4 @@
+เนื่องจากเป็นเพียงการเพิ่มแค่ Abstract Method สำหรับส่งโบรชัวร์เข้าไปใน Program
+ไม่ได้มีการเพิ่ม Design Pattern เพิ่มเติมใดๆจาก EX4 จึงเป็นแค่ Factory Design Pattern
+เดิมๆ ที่ CustomerMailFactory ที่จะถูกเรียกใช้ใน Main Program เพื่อ Return ประเภทลูกค้าให้
+แต่ยังไม่นับเป็น Factory Method เนื่องจากไม่ได้ทำผ่าน Subclass ครับ
